@@ -16,6 +16,15 @@ class MyClass{
     print('$a1 + $a2 = $add');
   }
 
+  List<String> myListMaker(String name1, String name2, String name3){
+    var newList= [name1, name2, name3];
+    return newList;
+  }
+
+
+
+
+
   // void restApiExplain() {
   //
   //
