@@ -17,7 +17,7 @@ void main(){
 
   var m2 = MyClass2();
 
-  //print('User info:: Username: ${m2.userName}\nPhone: ${m2.userNumber}\nEmail: ${m2.userMail}\nCGPA: ${m2.cgpa}\nActive: ${m2.isActive}');
+  print('User info:: Username: ${m2.userName}\nPhone: ${m2.userNumber}\nEmail: ${m2.userMail}\nCGPA: ${m2.cgpa}\nActive: ${m2.isActive}');
 
 
   m2.userName= 'Abir';
