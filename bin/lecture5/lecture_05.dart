@@ -14,6 +14,6 @@ void main(){
   // pc.statusDisplay(pc.getName(), pc.wifeName);
 
   myclass1.sum(a1: 10, a2: 10);
-
+  myclass1.myListMaker('name', 'name2', 'name3').forEach((element) { print(element);});
 
 }
